@@ -4,7 +4,15 @@
 [![Python](https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-blue)](https://fastapi.tiangolo.com/)
 [![Flutter](https://img.shields.io/badge/Frontend-Flutter-cyan)](https://flutter.dev/)
 
-A professional-grade Data Science project built by **Group 4 - Kinnaird College for Women**. This system monitors and predicts food prices across major markets in Pakistan to support the UN Sustainable Development Goal (SDG) 2: **Zero Hunger**.
+A professional-grade Data Science project.
+This system monitors and predicts food prices across major markets in Pakistan to support the UN Sustainable Development Goal (SDG) 2: **Zero Hunger**.
+
+---
+
+## 🌐 Live Demos
+Experience the system live on the internet:
+- **📱 Mobile App (Flutter)**: [Launch App](https://huggingface.co/spaces/RayRay333/wfp-market-app)
+- **📊 Data Dashboard (Streamlit)**: [Launch Dashboard](https://huggingface.co/spaces/RayRay333/wfp-market-dashboard)
 
 ---
 
@@ -71,11 +79,6 @@ flutter run -d chrome
 ```
 
 ---
-
-## 🎓 Academic Context
-- **Course**: CSC 493 - Data Science
-- **Institution**: Kinnaird College for Women
-- **Term**: Spring 2026
 
 ---
 *Developed with ❤️ for a Hunger-Free Pakistan.*
