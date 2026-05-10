@@ -64,13 +64,13 @@ pip install streamlit pandas joblib xgboost fastapi uvicorn
 
 ### 2. Run the Streamlit Dashboard
 ```bash
-streamlit run app.py
+py -m streamlit run app.py
 ```
 
 ### 3. Run the Flutter Mobile App (via Chrome)
 First, start the Backend Server:
 ```bash
-python main.py
+py main.py
 ```
 Then, launch the app:
 ```bash
